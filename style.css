@@ -23,4 +23,8 @@ h1{
 #b{
     font-size: medium;
     padding: 35px;
+
+}
+button{
+    font-size: larger;
 }
